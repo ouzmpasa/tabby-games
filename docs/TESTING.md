@@ -89,4 +89,4 @@ Play with two people, one at each short end, then tick off:
 | 9 | Frame rate | Smooth for 5 min (FPS counter from Home > hold "Device test") | |
 | 10 | Goal size / mallet size | Goals feel fair, mallets big enough for small hands (tune `goalWidth`, `malletRadius`) | |
 
-Record device model, Android version and date next to the results. Home tiles for the other four games say "Coming soon!" when tapped.
+Record device model, Android version and date next to the results.
