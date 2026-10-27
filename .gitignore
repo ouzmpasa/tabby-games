@@ -1,0 +1,27 @@
+node_modules
+dist
+.DS_Store
+*.log
+test-results
+playwright-report
+# Android
+android/build
+android/app/build
+android/.gradle
+android/.idea
+android/local.properties
+android/captures
+android/app/src/main/assets/public
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+android/app/src/main/res/xml/config.xml
+*.keystore
+*.jks
+# iOS
+ios/App/Pods
+ios/App/build
+ios/App/App/public
+ios/App/App/capacitor.config.json
+ios/App/App/config.xml
+ios/DerivedData
+xcuserdata
